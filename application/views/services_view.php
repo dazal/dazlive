@@ -1,0 +1,1 @@
+<iframe src="<?php echo base_url()?>servicedb" width="100%" height="800" id="iframe1" marginheight="0" frameborder="0" ></iframe>
